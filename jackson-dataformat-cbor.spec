@@ -3,6 +3,7 @@
 Name:          jackson-dataformat-cbor
 Version:       2.7.6
 Release:       3.1
+Group:         Development/Java
 Summary:       Jackson data format module for Concise Binary Object Representation (CBOR)
 License:       ASL 2.0
 URL:           http://wiki.fasterxml.com/
